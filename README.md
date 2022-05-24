@@ -1,6 +1,6 @@
 # VERIFY-QUALFIED-LEADS
 
-This project classifies leads generated from a digital advertisement into qualified and not qualified leads.
+This project analyses attributes of leads created by a digital advertisement, classifies them as either a potential customer or not.
 
 By Martin Mburu
 
