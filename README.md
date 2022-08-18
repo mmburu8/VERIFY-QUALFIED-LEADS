@@ -1,6 +1,6 @@
 # VERIFY-QUALFIED-LEADS
 
-This project analyses attributes of leads created by a digital advertisement, classifies them as either a potential customer or not.
+This project ranks leads, people whose information was collected by an ad campaign, from most probable customer to least probable customer.
 
 By Martin Mburu
 
@@ -10,7 +10,7 @@ Current Version: 16-03-2022
 
 This project was inspired by my first client in my freelancing journey. Thank you for believing in me. 
 The advertisement was used to attract people who wanted to sell their timeshares. This data had 1229 entities and 10 columns.
-My project concentrates on identifying not qualfied leads. The lower the probability the higher the quality of the lead.
+My project concentrates on getting probability estimation of a lead and ranking leads from highest probability to lowest probability.
 The data has been trained on a couple of models such as: LogisticRegression, RandomForest and XGBoost.
 
 # SETUP AND REQUIREMENTS
